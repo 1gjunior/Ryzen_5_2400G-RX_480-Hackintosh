@@ -28,7 +28,7 @@ Press `F2 or DEL` to load BIOS settings. Change the following settings:
 - Secure Boot: Disabled
 - CSM: Disabled
 
-1. Make bootable usb from Olarila from [here](https://dortania.github.io/OpenCore-Install-Guide/installer-guide)
+1. Make bootable usb from Opencore using GibMacOS from [here](https://dortania.github.io/OpenCore-Install-Guide/installer-guide)
 
 2. Follow the instructions, use config2.plist for booting
 
